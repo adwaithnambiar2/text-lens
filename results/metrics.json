@@ -1,0 +1,99 @@
+{
+  "seed": 42,
+  "train_size": 160,
+  "test_size": 80,
+  "train_families": [
+    "phrasing-01",
+    "phrasing-02",
+    "phrasing-03",
+    "phrasing-04",
+    "phrasing-05",
+    "phrasing-06",
+    "phrasing-07",
+    "phrasing-11"
+  ],
+  "test_families": [
+    "phrasing-00",
+    "phrasing-08",
+    "phrasing-09",
+    "phrasing-10"
+  ],
+  "labels": [
+    "billing",
+    "technical",
+    "account",
+    "delivery"
+  ],
+  "results": {
+    "tfidf": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "confusion_matrix": [
+        [
+          20,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          20,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          20,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          20
+        ]
+      ]
+    },
+    "latent_svd": {
+      "accuracy": 0.5625,
+      "macro_f1": 0.565904868078781,
+      "confusion_matrix": [
+        [
+          11,
+          3,
+          0,
+          6
+        ],
+        [
+          2,
+          13,
+          1,
+          4
+        ],
+        [
+          2,
+          5,
+          9,
+          4
+        ],
+        [
+          4,
+          4,
+          0,
+          12
+        ]
+      ]
+    }
+  },
+  "predictions": {
+    "tfidf": [
+      "account",
+      "delivery"
+    ],
+    "latent_svd": [
+      "account",
+      "account"
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{"text": "Please help me with a duplicate charge.", "label": "billing", "family": "phrasing-00"}
+{"text": "Please help me with an incorrect invoice.", "label": "billing", "family": "phrasing-00"}
+{"text": "Please help me with a refund request.", "label": "billing", "family": "phrasing-00"}
+{"text": "Please help me with a payment failure.", "label": "billing", "family": "phrasing-00"}
+{"text": "Please help me with the subscription price.", "label": "billing", "family": "phrasing-00"}
+{"text": "Please help me with a crashing application.", "label": "technical", "family": "phrasing-00"}
+{"text": "Please help me with a broken search feature.", "label": "technical", "family": "phrasing-00"}
+{"text": "Please help me with a network timeout.", "label": "technical", "family": "phrasing-00"}
+{"text": "Please help me with a failed software update.", "label": "technical", "family": "phrasing-00"}
+{"text": "Please help me with an installation error.", "label": "technical", "family": "phrasing-00"}
+{"text": "Please help me with a password reset.", "label": "account", "family": "phrasing-00"}
+{"text": "Please help me with a locked login.", "label": "account", "family": "phrasing-00"}
+{"text": "Please help me with a change to my email.", "label": "account", "family": "phrasing-00"}
+{"text": "Please help me with an account deletion.", "label": "account", "family": "phrasing-00"}
+{"text": "Please help me with two factor authentication.", "label": "account", "family": "phrasing-00"}
+{"text": "Please help me with a missing parcel.", "label": "delivery", "family": "phrasing-00"}
+{"text": "Please help me with a late shipment.", "label": "delivery", "family": "phrasing-00"}
+{"text": "Please help me with a tracking number.", "label": "delivery", "family": "phrasing-00"}
+{"text": "Please help me with a wrong shipping address.", "label": "delivery", "family": "phrasing-00"}
+{"text": "Please help me with a damaged package.", "label": "delivery", "family": "phrasing-00"}
+{"text": "I need assistance regarding a duplicate charge.", "label": "billing", "family": "phrasing-01"}
+{"text": "I need assistance regarding an incorrect invoice.", "label": "billing", "family": "phrasing-01"}
+{"text": "I need assistance regarding a refund request.", "label": "billing", "family": "phrasing-01"}
+{"text": "I need assistance regarding a payment failure.", "label": "billing", "family": "phrasing-01"}
+{"text": "I need assistance regarding the subscription price.", "label": "billing", "family": "phrasing-01"}
+{"text": "I need assistance regarding a crashing application.", "label": "technical", "family": "phrasing-01"}
+{"text": "I need assistance regarding a broken search feature.", "label": "technical", "family": "phrasing-01"}
+{"text": "I need assistance regarding a network timeout.", "label": "technical", "family": "phrasing-01"}
+{"text": "I need assistance regarding a failed software update.", "label": "technical", "family": "phrasing-01"}
+{"text": "I need assistance regarding an installation error.", "label": "technical", "family": "phrasing-01"}
+{"text": "I need assistance regarding a password reset.", "label": "account", "family": "phrasing-01"}
+{"text": "I need assistance regarding a locked login.", "label": "account", "family": "phrasing-01"}
+{"text": "I need assistance regarding a change to my email.", "label": "account", "family": "phrasing-01"}
+{"text": "I need assistance regarding an account deletion.", "label": "account", "family": "phrasing-01"}
+{"text": "I need assistance regarding two factor authentication.", "label": "account", "family": "phrasing-01"}
+{"text": "I need assistance regarding a missing parcel.", "label": "delivery", "family": "phrasing-01"}
+{"text": "I need assistance regarding a late shipment.", "label": "delivery", "family": "phrasing-01"}
+{"text": "I need assistance regarding a tracking number.", "label": "delivery", "family": "phrasing-01"}
+{"text": "I need assistance regarding a wrong shipping address.", "label": "delivery", "family": "phrasing-01"}
+{"text": "I need assistance regarding a damaged package.", "label": "delivery", "family": "phrasing-01"}
+{"text": "Can someone resolve a duplicate charge?", "label": "billing", "family": "phrasing-02"}
+{"text": "Can someone resolve an incorrect invoice?", "label": "billing", "family": "phrasing-02"}
+{"text": "Can someone resolve a refund request?", "label": "billing", "family": "phrasing-02"}
+{"text": "Can someone resolve a payment failure?", "label": "billing", "family": "phrasing-02"}
+{"text": "Can someone resolve the subscription price?", "label": "billing", "family": "phrasing-02"}
+{"text": "Can someone resolve a crashing application?", "label": "technical", "family": "phrasing-02"}
+{"text": "Can someone resolve a broken search feature?", "label": "technical", "family": "phrasing-02"}
+{"text": "Can someone resolve a network timeout?", "label": "technical", "family": "phrasing-02"}
+{"text": "Can someone resolve a failed software update?", "label": "technical", "family": "phrasing-02"}
+{"text": "Can someone resolve an installation error?", "label": "technical", "family": "phrasing-02"}
+{"text": "Can someone resolve a password reset?", "label": "account", "family": "phrasing-02"}
+{"text": "Can someone resolve a locked login?", "label": "account", "family": "phrasing-02"}
+{"text": "Can someone resolve a change to my email?", "label": "account", "family": "phrasing-02"}
+{"text": "Can someone resolve an account deletion?", "label": "account", "family": "phrasing-02"}
+{"text": "Can someone resolve two factor authentication?", "label": "account", "family": "phrasing-02"}
+{"text": "Can someone resolve a missing parcel?", "label": "delivery", "family": "phrasing-02"}
+{"text": "Can someone resolve a late shipment?", "label": "delivery", "family": "phrasing-02"}
+{"text": "Can someone resolve a tracking number?", "label": "delivery", "family": "phrasing-02"}
+{"text": "Can someone resolve a wrong shipping address?", "label": "delivery", "family": "phrasing-02"}
+{"text": "Can someone resolve a damaged package?", "label": "delivery", "family": "phrasing-02"}
+{"text": "I want to report a duplicate charge.", "label": "billing", "family": "phrasing-03"}
+{"text": "I want to report an incorrect invoice.", "label": "billing", "family": "phrasing-03"}
+{"text": "I want to report a refund request.", "label": "billing", "family": "phrasing-03"}
+{"text": "I want to report a payment failure.", "label": "billing", "family": "phrasing-03"}
+{"text": "I want to report the subscription price.", "label": "billing", "family": "phrasing-03"}
+{"text": "I want to report a crashing application.", "label": "technical", "family": "phrasing-03"}
+{"text": "I want to report a broken search feature.", "label": "technical", "family": "phrasing-03"}
+{"text": "I want to report a network timeout.", "label": "technical", "family": "phrasing-03"}
+{"text": "I want to report a failed software update.", "label": "technical", "family": "phrasing-03"}
+{"text": "I want to report an installation error.", "label": "technical", "family": "phrasing-03"}
+{"text": "I want to report a password reset.", "label": "account", "family": "phrasing-03"}
+{"text": "I want to report a locked login.", "label": "account", "family": "phrasing-03"}
+{"text": "I want to report a change to my email.", "label": "account", "family": "phrasing-03"}
+{"text": "I want to report an account deletion.", "label": "account", "family": "phrasing-03"}
+{"text": "I want to report two factor authentication.", "label": "account", "family": "phrasing-03"}
+{"text": "I want to report a missing parcel.", "label": "delivery", "family": "phrasing-03"}
+{"text": "I want to report a late shipment.", "label": "delivery", "family": "phrasing-03"}
+{"text": "I want to report a tracking number.", "label": "delivery", "family": "phrasing-03"}
+{"text": "I want to report a wrong shipping address.", "label": "delivery", "family": "phrasing-03"}
+{"text": "I want to report a damaged package.", "label": "delivery", "family": "phrasing-03"}
+{"text": "What should I do about a duplicate charge?", "label": "billing", "family": "phrasing-04"}
+{"text": "What should I do about an incorrect invoice?", "label": "billing", "family": "phrasing-04"}
+{"text": "What should I do about a refund request?", "label": "billing", "family": "phrasing-04"}
+{"text": "What should I do about a payment failure?", "label": "billing", "family": "phrasing-04"}
+{"text": "What should I do about the subscription price?", "label": "billing", "family": "phrasing-04"}
+{"text": "What should I do about a crashing application?", "label": "technical", "family": "phrasing-04"}
+{"text": "What should I do about a broken search feature?", "label": "technical", "family": "phrasing-04"}
+{"text": "What should I do about a network timeout?", "label": "technical", "family": "phrasing-04"}
+{"text": "What should I do about a failed software update?", "label": "technical", "family": "phrasing-04"}
+{"text": "What should I do about an installation error?", "label": "technical", "family": "phrasing-04"}
+{"text": "What should I do about a password reset?", "label": "account", "family": "phrasing-04"}
+{"text": "What should I do about a locked login?", "label": "account", "family": "phrasing-04"}
+{"text": "What should I do about a change to my email?", "label": "account", "family": "phrasing-04"}
+{"text": "What should I do about an account deletion?", "label": "account", "family": "phrasing-04"}
+{"text": "What should I do about two factor authentication?", "label": "account", "family": "phrasing-04"}
+{"text": "What should I do about a missing parcel?", "label": "delivery", "family": "phrasing-04"}
+{"text": "What should I do about a late shipment?", "label": "delivery", "family": "phrasing-04"}
+{"text": "What should I do about a tracking number?", "label": "delivery", "family": "phrasing-04"}
+{"text": "What should I do about a wrong shipping address?", "label": "delivery", "family": "phrasing-04"}
+{"text": "What should I do about a damaged package?", "label": "delivery", "family": "phrasing-04"}
+{"text": "I am contacting support about a duplicate charge.", "label": "billing", "family": "phrasing-05"}
+{"text": "I am contacting support about an incorrect invoice.", "label": "billing", "family": "phrasing-05"}
+{"text": "I am contacting support about a refund request.", "label": "billing", "family": "phrasing-05"}
+{"text": "I am contacting support about a payment failure.", "label": "billing", "family": "phrasing-05"}
+{"text": "I am contacting support about the subscription price.", "label": "billing", "family": "phrasing-05"}
+{"text": "I am contacting support about a crashing application.", "label": "technical", "family": "phrasing-05"}
+{"text": "I am contacting support about a broken search feature.", "label": "technical", "family": "phrasing-05"}
+{"text": "I am contacting support about a network timeout.", "label": "technical", "family": "phrasing-05"}
+{"text": "I am contacting support about a failed software update.", "label": "technical", "family": "phrasing-05"}
+{"text": "I am contacting support about an installation error.", "label": "technical", "family": "phrasing-05"}
+{"text": "I am contacting support about a password reset.", "label": "account", "family": "phrasing-05"}
+{"text": "I am contacting support about a locked login.", "label": "account", "family": "phrasing-05"}
+{"text": "I am contacting support about a change to my email.", "label": "account", "family": "phrasing-05"}
+{"text": "I am contacting support about an account deletion.", "label": "account", "family": "phrasing-05"}
+{"text": "I am contacting support about two factor authentication.", "label": "account", "family": "phrasing-05"}
+{"text": "I am contacting support about a missing parcel.", "label": "delivery", "family": "phrasing-05"}
+{"text": "I am contacting support about a late shipment.", "label": "delivery", "family": "phrasing-05"}
+{"text": "I am contacting support about a tracking number.", "label": "delivery", "family": "phrasing-05"}
+{"text": "I am contacting support about a wrong shipping address.", "label": "delivery", "family": "phrasing-05"}
+{"text": "I am contacting support about a damaged package.", "label": "delivery", "family": "phrasing-05"}
+{"text": "Could your team investigate a duplicate charge?", "label": "billing", "family": "phrasing-06"}
+{"text": "Could your team investigate an incorrect invoice?", "label": "billing", "family": "phrasing-06"}
+{"text": "Could your team investigate a refund request?", "label": "billing", "family": "phrasing-06"}
+{"text": "Could your team investigate a payment failure?", "label": "billing", "family": "phrasing-06"}
+{"text": "Could your team investigate the subscription price?", "label": "billing", "family": "phrasing-06"}
+{"text": "Could your team investigate a crashing application?", "label": "technical", "family": "phrasing-06"}
+{"text": "Could your team investigate a broken search feature?", "label": "technical", "family": "phrasing-06"}
+{"text": "Could your team investigate a network timeout?", "label": "technical", "family": "phrasing-06"}
+{"text": "Could your team investigate a failed software update?", "label": "technical", "family": "phrasing-06"}
+{"text": "Could your team investigate an installation error?", "label": "technical", "family": "phrasing-06"}
+{"text": "Could your team investigate a password reset?", "label": "account", "family": "phrasing-06"}
+{"text": "Could your team investigate a locked login?", "label": "account", "family": "phrasing-06"}
+{"text": "Could your team investigate a change to my email?", "label": "account", "family": "phrasing-06"}
+{"text": "Could your team investigate an account deletion?", "label": "account", "family": "phrasing-06"}
+{"text": "Could your team investigate two factor authentication?", "label": "account", "family": "phrasing-06"}
+{"text": "Could your team investigate a missing parcel?", "label": "delivery", "family": "phrasing-06"}
+{"text": "Could your team investigate a late shipment?", "label": "delivery", "family": "phrasing-06"}
+{"text": "Could your team investigate a tracking number?", "label": "delivery", "family": "phrasing-06"}
+{"text": "Could your team investigate a wrong shipping address?", "label": "delivery", "family": "phrasing-06"}
+{"text": "Could your team investigate a damaged package?", "label": "delivery", "family": "phrasing-06"}
+{"text": "I have a question concerning a duplicate charge.", "label": "billing", "family": "phrasing-07"}
+{"text": "I have a question concerning an incorrect invoice.", "label": "billing", "family": "phrasing-07"}
+{"text": "I have a question concerning a refund request.", "label": "billing", "family": "phrasing-07"}
+{"text": "I have a question concerning a payment failure.", "label": "billing", "family": "phrasing-07"}
+{"text": "I have a question concerning the subscription price.", "label": "billing", "family": "phrasing-07"}
+{"text": "I have a question concerning a crashing application.", "label": "technical", "family": "phrasing-07"}
+{"text": "I have a question concerning a broken search feature.", "label": "technical", "family": "phrasing-07"}
+{"text": "I have a question concerning a network timeout.", "label": "technical", "family": "phrasing-07"}
+{"text": "I have a question concerning a failed software update.", "label": "technical", "family": "phrasing-07"}
+{"text": "I have a question concerning an installation error.", "label": "technical", "family": "phrasing-07"}
+{"text": "I have a question concerning a password reset.", "label": "account", "family": "phrasing-07"}
+{"text": "I have a question concerning a locked login.", "label": "account", "family": "phrasing-07"}
+{"text": "I have a question concerning a change to my email.", "label": "account", "family": "phrasing-07"}
+{"text": "I have a question concerning an account deletion.", "label": "account", "family": "phrasing-07"}
+{"text": "I have a question concerning two factor authentication.", "label": "account", "family": "phrasing-07"}
+{"text": "I have a question concerning a missing parcel.", "label": "delivery", "family": "phrasing-07"}
+{"text": "I have a question concerning a late shipment.", "label": "delivery", "family": "phrasing-07"}
+{"text": "I have a question concerning a tracking number.", "label": "delivery", "family": "phrasing-07"}
+{"text": "I have a question concerning a wrong shipping address.", "label": "delivery", "family": "phrasing-07"}
+{"text": "I have a question concerning a damaged package.", "label": "delivery", "family": "phrasing-07"}
+{"text": "There is an issue involving a duplicate charge.", "label": "billing", "family": "phrasing-08"}
+{"text": "There is an issue involving an incorrect invoice.", "label": "billing", "family": "phrasing-08"}
+{"text": "There is an issue involving a refund request.", "label": "billing", "family": "phrasing-08"}
+{"text": "There is an issue involving a payment failure.", "label": "billing", "family": "phrasing-08"}
+{"text": "There is an issue involving the subscription price.", "label": "billing", "family": "phrasing-08"}
+{"text": "There is an issue involving a crashing application.", "label": "technical", "family": "phrasing-08"}
+{"text": "There is an issue involving a broken search feature.", "label": "technical", "family": "phrasing-08"}
+{"text": "There is an issue involving a network timeout.", "label": "technical", "family": "phrasing-08"}
+{"text": "There is an issue involving a failed software update.", "label": "technical", "family": "phrasing-08"}
+{"text": "There is an issue involving an installation error.", "label": "technical", "family": "phrasing-08"}
+{"text": "There is an issue involving a password reset.", "label": "account", "family": "phrasing-08"}
+{"text": "There is an issue involving a locked login.", "label": "account", "family": "phrasing-08"}
+{"text": "There is an issue involving a change to my email.", "label": "account", "family": "phrasing-08"}
+{"text": "There is an issue involving an account deletion.", "label": "account", "family": "phrasing-08"}
+{"text": "There is an issue involving two factor authentication.", "label": "account", "family": "phrasing-08"}
+{"text": "There is an issue involving a missing parcel.", "label": "delivery", "family": "phrasing-08"}
+{"text": "There is an issue involving a late shipment.", "label": "delivery", "family": "phrasing-08"}
+{"text": "There is an issue involving a tracking number.", "label": "delivery", "family": "phrasing-08"}
+{"text": "There is an issue involving a wrong shipping address.", "label": "delivery", "family": "phrasing-08"}
+{"text": "There is an issue involving a damaged package.", "label": "delivery", "family": "phrasing-08"}
+{"text": "My request today concerns a duplicate charge.", "label": "billing", "family": "phrasing-09"}
+{"text": "My request today concerns an incorrect invoice.", "label": "billing", "family": "phrasing-09"}
+{"text": "My request today concerns a refund request.", "label": "billing", "family": "phrasing-09"}
+{"text": "My request today concerns a payment failure.", "label": "billing", "family": "phrasing-09"}
+{"text": "My request today concerns the subscription price.", "label": "billing", "family": "phrasing-09"}
+{"text": "My request today concerns a crashing application.", "label": "technical", "family": "phrasing-09"}
+{"text": "My request today concerns a broken search feature.", "label": "technical", "family": "phrasing-09"}
+{"text": "My request today concerns a network timeout.", "label": "technical", "family": "phrasing-09"}
+{"text": "My request today concerns a failed software update.", "label": "technical", "family": "phrasing-09"}
+{"text": "My request today concerns an installation error.", "label": "technical", "family": "phrasing-09"}
+{"text": "My request today concerns a password reset.", "label": "account", "family": "phrasing-09"}
+{"text": "My request today concerns a locked login.", "label": "account", "family": "phrasing-09"}
+{"text": "My request today concerns a change to my email.", "label": "account", "family": "phrasing-09"}
+{"text": "My request today concerns an account deletion.", "label": "account", "family": "phrasing-09"}
+{"text": "My request today concerns two factor authentication.", "label": "account", "family": "phrasing-09"}
+{"text": "My request today concerns a missing parcel.", "label": "delivery", "family": "phrasing-09"}
+{"text": "My request today concerns a late shipment.", "label": "delivery", "family": "phrasing-09"}
+{"text": "My request today concerns a tracking number.", "label": "delivery", "family": "phrasing-09"}
+{"text": "My request today concerns a wrong shipping address.", "label": "delivery", "family": "phrasing-09"}
+{"text": "My request today concerns a damaged package.", "label": "delivery", "family": "phrasing-09"}
+{"text": "I would like an update about a duplicate charge.", "label": "billing", "family": "phrasing-10"}
+{"text": "I would like an update about an incorrect invoice.", "label": "billing", "family": "phrasing-10"}
+{"text": "I would like an update about a refund request.", "label": "billing", "family": "phrasing-10"}
+{"text": "I would like an update about a payment failure.", "label": "billing", "family": "phrasing-10"}
+{"text": "I would like an update about the subscription price.", "label": "billing", "family": "phrasing-10"}
+{"text": "I would like an update about a crashing application.", "label": "technical", "family": "phrasing-10"}
+{"text": "I would like an update about a broken search feature.", "label": "technical", "family": "phrasing-10"}
+{"text": "I would like an update about a network timeout.", "label": "technical", "family": "phrasing-10"}
+{"text": "I would like an update about a failed software update.", "label": "technical", "family": "phrasing-10"}
+{"text": "I would like an update about an installation error.", "label": "technical", "family": "phrasing-10"}
+{"text": "I would like an update about a password reset.", "label": "account", "family": "phrasing-10"}
+{"text": "I would like an update about a locked login.", "label": "account", "family": "phrasing-10"}
+{"text": "I would like an update about a change to my email.", "label": "account", "family": "phrasing-10"}
+{"text": "I would like an update about an account deletion.", "label": "account", "family": "phrasing-10"}
+{"text": "I would like an update about two factor authentication.", "label": "account", "family": "phrasing-10"}
+{"text": "I would like an update about a missing parcel.", "label": "delivery", "family": "phrasing-10"}
+{"text": "I would like an update about a late shipment.", "label": "delivery", "family": "phrasing-10"}
+{"text": "I would like an update about a tracking number.", "label": "delivery", "family": "phrasing-10"}
+{"text": "I would like an update about a wrong shipping address.", "label": "delivery", "family": "phrasing-10"}
+{"text": "I would like an update about a damaged package.", "label": "delivery", "family": "phrasing-10"}
+{"text": "How can I fix a duplicate charge?", "label": "billing", "family": "phrasing-11"}
+{"text": "How can I fix an incorrect invoice?", "label": "billing", "family": "phrasing-11"}
+{"text": "How can I fix a refund request?", "label": "billing", "family": "phrasing-11"}
+{"text": "How can I fix a payment failure?", "label": "billing", "family": "phrasing-11"}
+{"text": "How can I fix the subscription price?", "label": "billing", "family": "phrasing-11"}
+{"text": "How can I fix a crashing application?", "label": "technical", "family": "phrasing-11"}
+{"text": "How can I fix a broken search feature?", "label": "technical", "family": "phrasing-11"}
+{"text": "How can I fix a network timeout?", "label": "technical", "family": "phrasing-11"}
+{"text": "How can I fix a failed software update?", "label": "technical", "family": "phrasing-11"}
+{"text": "How can I fix an installation error?", "label": "technical", "family": "phrasing-11"}
+{"text": "How can I fix a password reset?", "label": "account", "family": "phrasing-11"}
+{"text": "How can I fix a locked login?", "label": "account", "family": "phrasing-11"}
+{"text": "How can I fix a change to my email?", "label": "account", "family": "phrasing-11"}
+{"text": "How can I fix an account deletion?", "label": "account", "family": "phrasing-11"}
+{"text": "How can I fix two factor authentication?", "label": "account", "family": "phrasing-11"}
+{"text": "How can I fix a missing parcel?", "label": "delivery", "family": "phrasing-11"}
+{"text": "How can I fix a late shipment?", "label": "delivery", "family": "phrasing-11"}
+{"text": "How can I fix a tracking number?", "label": "delivery", "family": "phrasing-11"}
+{"text": "How can I fix a wrong shipping address?", "label": "delivery", "family": "phrasing-11"}
+{"text": "How can I fix a damaged package?", "label": "delivery", "family": "phrasing-11"}
